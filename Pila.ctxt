@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Pila
+comment1.params=
+comment1.target=Pila()
+comment2.params=v
+comment2.target=void\ meter(int)
+comment3.params=
+comment3.target=int\ sacar()
+comment4.params=
+comment4.target=boolean\ vacia()
+numComments=5
